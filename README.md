@@ -5,17 +5,17 @@ Hostel management system offers a full featured accommodation system to efficien
 Features:
 
 1.	Building information
-	\n•	Hostel name and type (Jinnah Hall, Iqbal Hall or Faculty/Staff/Boys/Girls etc)
-	•	Hostel location (FAST-NUCES CFD)
-	•	Number of floors and rooms (B + G + 3, 20-26 rooms)
+	<br>•	Hostel name and type (Jinnah Hall, Iqbal Hall or Faculty/Staff/Boys/Girls etc)
+	<br>•	Hostel location (FAST-NUCES CFD)
+	<br>•	Number of floors and rooms (B + G + 3, 20-26 rooms)
 2.	Room information
-	•	Room strength (rooms have different capacity i.e., 2,3,4 or 6 persons)
-	•	Room assets and details (add equipment like bed, table etc)
-	•	Room facilities (stay, sleep, study )
-	•	Room allocation/availability
-	•	Room shifting
+	<br>•	Room strength (rooms have different capacity i.e., 2,3,4 or 6 persons)
+	<br>•	Room assets and details (add equipment like bed, table etc)
+	<br>•	Room facilities (stay, sleep, study )
+	<br>•	Room allocation/availability
+	<br>•	Room shifting
 3.	Student information
-	•	Student details (name, registration, payments etc)
+	<br>•	Student details (name, registration, payments etc)
 4.	Student in and out attendance
 5.	Student mess attendance
 6.	Mess bill collection & Hostel bills Master
@@ -25,21 +25,21 @@ Features:
 10.	Visitor Record
 11.	You can add any extra Module, if you want (Bonus)
 
-Domain:
-Web based app or desktop- based app (choice).
+<br>Domain:
+<br>Web based app or desktop- based app (choice).
 
-Database:
-Oracle Database (mandatory).
+<br>Database:
+<br>Oracle Database (mandatory).
 
 Guidelines:
-•	You are required to make a group of (three-five) members and submit group details on Google sheet. 
-•	You can add extra relevant features according to your requirements.
-•	You will submit your project design procedure in multiple deliverables. 
-•	Deliverable 1: Project Proposal  (deadline: 25-11-2022)
-•	 Deliverable 2: ERD/EERD Design in hard form (deadline: 30-11-2022)
-•	 Deliverable 3: Submit Complete Project. (deadline: 09-12-2022)
-•	Viva date will be announced later.
-•	Plagiarism in any deliverable will lead to F grade in particular lab
+<br>•	You are required to make a group of (three-five) members and submit group details on Google sheet. 
+<br>•	You can add extra relevant features according to your requirements.
+<br>•	You will submit your project design procedure in multiple deliverables. 
+<br>•	Deliverable 1: Project Proposal  (deadline: 25-11-2022)
+<br>•	 Deliverable 2: ERD/EERD Design in hard form (deadline: 30-11-2022)
+<br>•	 Deliverable 3: Submit Complete Project. (deadline: 09-12-2022)
+<br>•	Viva date will be announced later.
+<br>•	Plagiarism in any deliverable will lead to F grade in particular lab
 
 
 
