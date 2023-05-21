@@ -5,7 +5,7 @@ Hostel management system offers a full featured accommodation system to efficien
 Features:
 
 1.	Building information
-	•	Hostel name and type (Jinnah Hall, Iqbal Hall or Faculty/Staff/Boys/Girls etc)
+	\n•	Hostel name and type (Jinnah Hall, Iqbal Hall or Faculty/Staff/Boys/Girls etc)
 	•	Hostel location (FAST-NUCES CFD)
 	•	Number of floors and rooms (B + G + 3, 20-26 rooms)
 2.	Room information
